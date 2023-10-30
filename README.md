@@ -117,6 +117,7 @@ regression modeling process. And if it's factor type it builds a classification 
 your response to factor when you are working on a classification project.
 
 The below figure shows the best five RMSE values for Decision tree model.
+
 ![Decision_tree_best_rmse](https://github.com/samugarivishnupriya/Real-Estate/assets/85831285/a09f1751-c200-40a7-869c-aa51291b5b7e)
 
 ### *Random Forest*
@@ -186,11 +187,14 @@ combination which performs best.
 
 The below figure shows the best five RMSE values for Random Forest model.
 
+![Random_forest_best_rmse](https://github.com/samugarivishnupriya/Real-Estate/assets/85831285/57762544-27d5-4bac-b1b3-67acc5408280)
 
 ### *XGBoost*
 XGBoost is an implementation of Gradient Boosted decision trees. In this algorithm, decision trees are created in sequential form. Weights play an important role in XGBoost. Weights are assigned to all the independent variables which are then fed into the decision tree which predicts results. The weight of variables predicted wrong by the tree is increased and these variables are then fed to the second decision tree. These individual classifiers/predictors then ensemble to give a strong and more precise model. It can work on regression, classification, ranking, and user-defined prediction problems.
 
 The below figure shows the best five RMSE values for XGBoost model.
+
+![XGboost_best_rmse](https://github.com/samugarivishnupriya/Real-Estate/assets/85831285/714d09f5-e961-43fd-9e34-9d17d5ce021e)
 
 ### STEP-5 : Prediction
 Now we compare the rmse values for all the models which we have implemented.
