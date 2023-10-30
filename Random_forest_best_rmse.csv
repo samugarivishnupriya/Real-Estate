@@ -1,0 +1,6 @@
+"mtry","trees","min_n",".metric",".estimator","mean","n","std_err",".config"
+17,500,6,"rmse","standard",313790.18014957,5,7143.58240705426,"Preprocessor1_Model17"
+17,500,2,"rmse","standard",313829.378512995,5,6743.05935197482,"Preprocessor1_Model08"
+17,255,6,"rmse","standard",313888.065008316,5,6952.57719976564,"Preprocessor1_Model14"
+17,500,10,"rmse","standard",314241.281548087,5,7192.61109937284,"Preprocessor1_Model26"
+17,255,2,"rmse","standard",314361.095969101,5,6908.73374664771,"Preprocessor1_Model05"

@@ -1,0 +1,6 @@
+"cost_complexity","tree_depth","min_n",".metric",".estimator","mean","n","std_err",".config"
+1e-10,15,40,"rmse","standard",357878.502103253,10,9157.80641309104,"Preprocessor1_Model25"
+3.16227766016838e-06,15,40,"rmse","standard",357889.251599511,10,9155.75332082494,"Preprocessor1_Model26"
+1e-10,15,21,"rmse","standard",362262.719418756,10,7086.67798704585,"Preprocessor1_Model16"
+3.16227766016838e-06,15,21,"rmse","standard",362264.1615755,10,7082.66648629516,"Preprocessor1_Model17"
+1e-10,8,40,"rmse","standard",372377.825828538,10,8960.76818253512,"Preprocessor1_Model22"
