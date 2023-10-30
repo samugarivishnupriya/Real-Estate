@@ -117,6 +117,7 @@ regression modeling process. And if it's factor type it builds a classification 
 your response to factor when you are working on a classification project.
 
 The below figure shows the best five RMSE values for Decision tree model.
+![Decision_tree_best_rmse](https://github.com/samugarivishnupriya/Real-Estate/assets/85831285/a09f1751-c200-40a7-869c-aa51291b5b7e)
 
 ### *Random Forest*
 Decision trees are very good at capturing non-linear patterns in the data. That's a good thing about them and
